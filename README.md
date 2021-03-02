@@ -1,4 +1,4 @@
-# Logistic-Regression-Model-for-Breast-Cancer
+# Logistic-Regression-Model-for-Breast-Cancer-Diagnosis
 
 For this project, a simple Logistic Regression Model predicts whether an individual has malignant or benign breast cancer cells. Scikit Learn's LogisticRegression module is used.
 
